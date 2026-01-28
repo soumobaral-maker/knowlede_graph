@@ -1,0 +1,51 @@
+risk_id,entity_type,entity_id,risk_type,severity,gap_qty
+R001,Component,C001,Shortage,High,-120
+R002,Component,C002,Shortage,Medium,-60
+R003,Component,C003,Shortage,High,-90
+R004,Component,C004,Shortage,Medium,-40
+R005,SKU,SKU-01,Supply Risk,High,-100
+R006,SKU,SKU-02,Supply Risk,Medium,-70
+R007,SKU,SKU-03,Supply Risk,High,-120
+R008,SKU,SKU-04,Supply Risk,Medium,-60
+R009,Order,O021,Fulfillment Risk,High,-240
+R010,Order,O022,Fulfillment Risk,Medium,-250
+R011,Order,O023,Fulfillment Risk,High,-260
+R012,Order,O024,Fulfillment Risk,Medium,-270
+R013,Deal,D021,Revenue Risk,High,-240
+R014,Deal,D022,Revenue Risk,Medium,-250
+R015,Deal,D023,Revenue Risk,High,-260
+R016,Deal,D024,Revenue Risk,Medium,-270
+R017,Component,C005,Shortage,Low,-30
+R018,Component,C006,Shortage,Low,-25
+R019,Component,C007,Shortage,Low,-20
+R020,Component,C008,Shortage,Low,-15
+R021,SKU,SKU-05,Supply Risk,Low,-40
+R022,SKU,SKU-06,Supply Risk,Low,-45
+R023,SKU,SKU-07,Supply Risk,Low,-50
+R024,SKU,SKU-08,Supply Risk,Low,-55
+R025,Order,O025,Fulfillment Risk,Medium,-280
+R026,Order,O026,Fulfillment Risk,Medium,-290
+R027,Order,O027,Fulfillment Risk,High,-300
+R028,Order,O028,Fulfillment Risk,High,-310
+R029,Deal,D025,Revenue Risk,High,-280
+R030,Deal,D026,Revenue Risk,High,-290
+R031,Deal,D027,Revenue Risk,High,-300
+R032,Deal,D028,Revenue Risk,High,-310
+R033,Component,C009,Shortage,Low,-10
+R034,Component,C010,Shortage,Low,-8
+R035,SKU,SKU-09,Supply Risk,Low,-60
+R036,SKU,SKU-10,Supply Risk,Low,-65
+R037,Order,O029,Fulfillment Risk,Medium,-320
+R038,Order,O030,Fulfillment Risk,Medium,-330
+R039,Deal,D029,Revenue Risk,Medium,-320
+R040,Deal,D030,Revenue Risk,Medium,-330
+R041,Component,C001,Shortage,High,-200
+R042,SKU,SKU-01,Supply Risk,High,-180
+R043,Order,O041,Fulfillment Risk,High,-440
+R044,Deal,D041,Revenue Risk,High,-440
+R045,Component,C003,Shortage,High,-150
+R046,SKU,SKU-03,Supply Risk,High,-200
+R047,Order,O043,Fulfillment Risk,High,-460
+R048,Deal,D043,Revenue Risk,High,-460
+R049,Component,C004,Shortage,Medium,-70
+R050,Deal,D050,Revenue Risk,High,-530
